@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">QuickNotes</string>
+    <string name="detail_title">Detail Note</string>
+    <string name="add_note_title">Add Note</string>
+    <string name="save_title">Save</string>
+    <string name="delete_title">Delete</string>
     <string name="title">Title</string>
     <string name="empty_note">Would you mind adding a note?</string>
     <string name="icon">icon</string>
