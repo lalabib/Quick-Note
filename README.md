@@ -20,7 +20,7 @@ Application to CRUD note
 ## Link Donwload
 - <a href="https://drive.google.com/drive/folders/1C2jRMeQ5aqi_tWS2wJJhRGCPe3o8DOMU?usp=sharing">QuickNote</a>
 
-### Demo Video
+## Demo Video
 - <a href="https://drive.google.com/drive/folders/1C2jRMeQ5aqi_tWS2wJJhRGCPe3o8DOMU?usp=sharing">Demo Video</a>
 
 ## Author
