@@ -27,19 +27,12 @@ class DetailActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         setView()
-        setAction()
         setData()
     }
 
     private fun setView() {
         supportActionBar?.apply {
             setDisplayHomeAsUpEnabled(true)
-        }
-    }
-
-    private fun setAction() {
-        binding.apply {
-
         }
     }
 
@@ -132,7 +125,7 @@ class DetailActivity : AppCompatActivity() {
 
     private fun backToHome() {
         val intent = Intent(this@DetailActivity, MainActivity::class.java)
-        intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TASK
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
         startActivity(intent)
     }
 }
